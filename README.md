@@ -2,6 +2,8 @@
 
 AttnGAN is a work I found here. https://github.com/taoxugit/AttnGAN
 
+It can convert text descriptions into quality images when trained on a dataset.
+
 Only the GUI section is coded by me. All other parts were converted from original codebase in Python2 to Python3 using 2to3. All the models were obtained from the official repo. Some parts has been edited to get compatible with PyTorch cpu only.
 
 I used anaconda for development in a windows 10 machine. Python version was 3.8.2. PyTorch CPU is used instead of PyTorch CPU.The conda package list provided in the requirements.txt.
