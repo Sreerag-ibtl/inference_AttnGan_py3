@@ -1,0 +1,75 @@
+# packages in environment at C:\anaconda\envs\attgan-new:
+#
+# Name                    Version                   Build  Channel
+applicationinsights       0.11.9                     py_0    conda-forge
+azure-common              1.1.24                     py_0    conda-forge
+azure-nspkg               3.0.2                      py_0    conda-forge
+blas                      1.0                         mkl  
+ca-certificates           2020.4.5.1           hecc5488_0    conda-forge
+certifi                   2020.4.5.1       py38h32f6830_0    conda-forge
+click                     7.1.1              pyh8c360ce_0    conda-forge
+cloudpickle               1.3.0                      py_0    conda-forge
+cpuonly                   1.0                           0    pytorch
+cycler                    0.10.0                     py_2    conda-forge
+cytoolz                   0.10.1           py38hfa6e2cd_0    conda-forge
+dask-core                 2.14.0                     py_0    conda-forge
+decorator                 4.4.2                      py_0    conda-forge
+easydict                  1.9                        py_0    zhaofeng-shu33
+flask                     1.1.2              pyh9f0ad1d_0    conda-forge
+freetype                  2.9.1                ha9979f8_1  
+icc_rt                    2019.0.0             h0cc432a_1  
+imageio                   2.8.0                      py_0    conda-forge
+intel-openmp              2020.0                      166  
+itsdangerous              1.1.0                      py_0    conda-forge
+jinja2                    2.11.2             pyh9f0ad1d_0    conda-forge
+jpeg                      9b                   hb83a4c4_2  
+kiwisolver                1.2.0            py38heaebd3c_0    conda-forge
+libblas                   3.8.0                    15_mkl    conda-forge
+libcblas                  3.8.0                    15_mkl    conda-forge
+liblapack                 3.8.0                    15_mkl    conda-forge
+libpng                    1.6.37               h2a8f88b_0  
+libtiff                   4.1.0                h56a325e_0  
+markupsafe                1.1.1            py38h9de7a3e_1    conda-forge
+matplotlib-base           3.2.1            py38h1626042_0    conda-forge
+mkl                       2020.0                      166  
+mkl-service               2.3.0            py38hb782905_0  
+mkl_fft                   1.0.15           py38h14836fe_0  
+mkl_random                1.1.0            py38hf9181ef_0  
+networkx                  2.4                        py_1    conda-forge
+ninja                     1.9.0            py38h74a9793_0  
+nltk                      3.4.5                    py38_0  
+numpy                     1.18.1           py38h93ca92e_0  
+numpy-base                1.18.1           py38hc3f5095_1  
+olefile                   0.46                       py_0  
+openssl                   1.1.1f               hfa6e2cd_0    conda-forge
+pandas                    1.0.3            py38he6e81aa_1    conda-forge
+pillow                    7.0.0            py38hcc1f983_0  
+pip                       20.0.2                   py38_1  
+pyparsing                 2.4.7              pyh9f0ad1d_0    conda-forge
+pyqt5                     5.14.2                   pypi_0    pypi
+pyqt5-sip                 12.7.2                   pypi_0    pypi
+python                    3.8.2               h5fd99cc_11  
+python-dateutil           2.8.1                      py_0    conda-forge
+python_abi                3.8                      1_cp38    conda-forge
+pytorch                   1.4.0               py3.8_cpu_0  [cpuonly]  pytorch
+pytz                      2019.3                     py_0    conda-forge
+pywavelets                1.1.1            py38h40bdaab_1    conda-forge
+pyyaml                    5.3.1            py38h9de7a3e_0    conda-forge
+scikit-image              0.16.2           py38he350917_0    conda-forge
+scipy                     1.3.2            py38h582fac2_0    conda-forge
+setuptools                46.1.3                   py38_0  
+six                       1.14.0                     py_1    conda-forge
+sqlite                    3.31.1               he774522_0  
+tk                        8.6.8                hfa6e2cd_0  
+toolz                     0.10.0                     py_0    conda-forge
+torchvision               0.5.0                  py38_cpu  [cpuonly]  pytorch
+tornado                   6.0.4            py38hfa6e2cd_0    conda-forge
+vc                        14.1                 h0510ff6_4  
+vs2015_runtime            14.16.27012          hf0eaf9b_1  
+werkzeug                  1.0.1              pyh9f0ad1d_0    conda-forge
+wheel                     0.34.2                   py38_0  
+wincertstore              0.2                      py38_0  
+xz                        5.2.5                h62dcd97_0  
+yaml                      0.2.4                he774522_0    conda-forge
+zlib                      1.2.11               h62dcd97_4  
+zstd                      1.3.7                h508b16e_0  
