@@ -8,3 +8,15 @@ Result from the GUI:
 
 
 ![](ui.png)
+
+Save the text encoder into DAMSMencoders from https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V
+
+Save the model into models from https://drive.google.com/open?id=1lqNG75suOuR_8gjoEPYNp8VyT_ufPPig
+
+Install packages specified in requirements.txt
+
+Move into the directory code.
+
+Run python gui.py
+
+
