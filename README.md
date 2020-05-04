@@ -7,4 +7,4 @@ Only the GUI section is coded by me. All other parts were converted from origina
 Result from the GUI:
 
 
-![](framework.png)
+![](scrrenshot (20).png)
