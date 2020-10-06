@@ -21,6 +21,10 @@ Install packages specified in requirements.txt
 
 Move into the directory code.
 
-Run python gui.py
+Run
+
+```python
+python gui.py
+```
 
 
